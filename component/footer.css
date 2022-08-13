@@ -51,7 +51,7 @@ body{
 	/* font-family: 'Nunito', sans-serif; */
 	font-family: 'Kanit', sans-serif;
 	font-weight: var(--fw-normal);
-	position: absolute;
+	position: inherit;
 }
 /* ! / body max-width for all pages */
 
