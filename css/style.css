@@ -59,7 +59,7 @@
     color:white;
 }
 .fourthContainer{
-    position:absolute;
+    position: inherit;
     top: 0;
     left: 0;
     width:100%;
